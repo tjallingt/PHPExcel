@@ -1,8 +1,9 @@
 {
-    "name": "phpoffice/phpexcel",
+    "name": "tjallingt/phpexcel",
+    "replaces": "phpoffice/phpexcel",
     "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
-    "homepage": "https://github.com/PHPOffice/PHPExcel",
+    "homepage": "https://github.com/tjallingt/PHPExcel",
     "type": "library",
     "license": "LGPL-2.1",
     "authors": [
